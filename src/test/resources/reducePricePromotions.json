@@ -1,0 +1,9 @@
+[
+  {
+    "itemCode": "001",
+    "itemName": "Reduced Price Offer",
+    "minimumQuantity": 2,
+    "offerPrice": "8.50",
+    "itemCurrency": "£"
+  }
+]

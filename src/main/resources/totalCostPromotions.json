@@ -1,0 +1,14 @@
+[
+  {
+    "offerName": "CART10",
+    "minimumAmount": 60,
+    "offerPercent": 10,
+    "itemCurrency": "£"
+  },
+  {
+    "offerName": "CART25",
+    "minimumAmount": 150,
+    "offerPercent": 25,
+    "itemCurrency": "£"
+  }
+]

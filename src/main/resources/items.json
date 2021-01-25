@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "itemCode": "001",
+      "itemName": "Travel Card Holder",
+      "itemPrice": "9.25",
+      "itemCurrency": "£"
+    },
+    {
+      "itemCode": "002",
+      "itemName": "Personalised cufflinks",
+      "itemPrice": "45.00",
+      "itemCurrency": "£"
+    },
+    {
+      "itemCode": "003",
+      "itemName": "Kids T-shirt",
+      "itemPrice": "19.95",
+      "itemCurrency": "£"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "itemCode": "001",
+    "itemName": "Reduced Price Offer",
+    "minimumQuantity": 2,
+    "offerPrice": "8.50",
+    "itemCurrency": "£"
+  },
+  {
+    "itemCode": "006",
+    "itemName": "Half Price Offer",
+    "minimumQuantity": 10,
+    "offerPrice": "5.50",
+    "itemCurrency": "£"
+  }
+]
