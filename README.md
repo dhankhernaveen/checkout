@@ -19,3 +19,8 @@ Checkout is build with 2 methods
    We read both the promotions from json files to keep them flexiable.
 
 In future we can also introduce another type of promotion and extend our functionality or we can remove any promotions.
+
+Pending Items or things which can be improved
+-  As we are dealing with price calculations we should use BigDecimal
+-  As the constructor was pre-specified in the problem statement , In few classes there are extra constructors to be support Mocking
+-  Not all log information is added , we can add logs if needed(I have skipped it for now
